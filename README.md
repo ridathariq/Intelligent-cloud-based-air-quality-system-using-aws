@@ -20,3 +20,6 @@ Drag the `dist` folder onto Netlify, or connect the repo (netlify.toml is includ
 - src/hooks/useAirQuality.js   simulator, persistence timer, LED/buzzer logic, history, log
 - src/components/              one file per dashboard section
 - src/styles.css               all styling
+
+
+http://aish-rid-aqdd-051580166213-ap-southeast-2-an.s3-website-ap-southeast-2.amazonaws.com/
